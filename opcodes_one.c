@@ -117,7 +117,7 @@ void pop_op(stack_t **hd, unsigned int linenum)
 }
 
 /**
- * swap_op - function used to swap the top two elements
+ * op_swap - function used to swap the top two elements
  *           of a stack
  * @hd: used to pint to the head of the list which is a
  *      pointer to the linked list
